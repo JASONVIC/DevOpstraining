@@ -1,0 +1,2 @@
+File 1
+This is a first file pushed to Git
